@@ -1,0 +1,9 @@
+{
+  "name": "Entertainment District Raid",
+  "events": [
+    { "t": 0.000, "key": "s", "state": "down" },
+    { "t": 4.800, "key": "s", "state": "up" },
+    { "t": 4.800, "key": "d", "state": "down" },
+    { "t": 5.400, "key": "d", "state": "up" }
+  ]
+}

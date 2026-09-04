@@ -1,0 +1,11 @@
+{
+  "name": "Karakura Town",
+  "events": [
+    { "t": 0.000, "key": "w", "state": "down" },
+    { "t": 0.200, "key": "w", "state": "up" },
+    { "t": 0.200, "key": "a", "state": "down" },
+    { "t": 1.400, "key": "a", "state": "up" },
+    { "t": 1.400, "key": "s", "state": "down" },
+    { "t": 2.000, "key": "s", "state": "up" }
+  ]
+}

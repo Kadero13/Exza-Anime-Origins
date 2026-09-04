@@ -1,0 +1,7 @@
+{
+  "name": "Hidden Sand",
+  "events": [
+    { "t": 0.000, "key": "a", "state": "down" },
+    { "t": 0.300, "key": "a", "state": "up" }
+  ]
+}

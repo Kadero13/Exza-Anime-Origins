@@ -1,0 +1,12 @@
+# Runtime-generated local data; these files are created automatically by Exza.
+/Logs/
+/Config/UI Macro/
+/Config/Tasks/
+/Config/CustomNavigation/
+/Config/CustomPath/
+/Paths/custom/
+
+# Build/debug leftovers.
+*.pdb
+*.deps.json
+*.runtimeconfig.json

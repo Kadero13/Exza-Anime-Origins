@@ -1,0 +1,334 @@
+{
+    "team":  "",
+    "equipment":  "include",
+    "battle":  [
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Leolio 1",
+                                      "x":  151,
+                                      "y":  506,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "6",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  1,
+                                      "priority":  1
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Leolio 2",
+                                      "x":  239,
+                                      "y":  510,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "6",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  2,
+                                      "priority":  1
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Leolio 3",
+                                      "x":  351,
+                                      "y":  511,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "6",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  3,
+                                      "priority":  1
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Bulma",
+                                      "x":  800,
+                                      "y":  508,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "5",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  4,
+                                      "priority":  1
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Slot 1 #1",
+                                      "x":  535,
+                                      "y":  337,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "1",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  5,
+                                      "priority":  2
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "send_key",
+                       "key":  "a",
+                       "params":  {
+                                      "hold_ms":  1000
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "send_key",
+                       "key":  "w",
+                       "params":  {
+                                      "hold_ms":  1700
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "send_key",
+                       "key":  "a",
+                       "params":  {
+                                      "hold_ms":  300
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Slot 2 #1",
+                                      "x":  911,
+                                      "y":  422,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "2",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  6,
+                                      "priority":  3
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "teleport",
+                       "once":  false
+                   },
+                   {
+                       "type":  "send_key",
+                       "key":  "d",
+                       "params":  {
+                                      "hold_ms":  150
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "send_key",
+                       "key":  "s",
+                       "params":  {
+                                      "hold_ms":  700
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "send_key",
+                       "key":  "d",
+                       "params":  {
+                                      "hold_ms":  1700
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Slot 2 #2",
+                                      "x":  764,
+                                      "y":  563,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "2",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  7,
+                                      "priority":  3
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "teleport",
+                       "once":  false
+                   },
+                   {
+                       "type":  "send_key",
+                       "key":  "w",
+                       "params":  {
+                                      "hold_ms":  100
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "send_key",
+                       "key":  "d",
+                       "params":  {
+                                      "hold_ms":  1600
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Slot 3 #1",
+                                      "x":  693,
+                                      "y":  372,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "3",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  8,
+                                      "priority":  2
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Slot 4 #1",
+                                      "x":  326,
+                                      "y":  372,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "4",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  9,
+                                      "priority":  2
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "teleport",
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Slot 3 #2",
+                                      "x":  496,
+                                      "y":  338,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "3",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  10,
+                                      "priority":  2
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Slot 3 #3",
+                                      "x":  470,
+                                      "y":  372,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "3",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  11,
+                                      "priority":  2
+                                  },
+                       "once":  false
+                   },
+                   {
+                       "type":  "place_unit",
+                       "params":  {
+                                      "name":  "Slot 4 #2",
+                                      "x":  211,
+                                      "y":  327,
+                                      "hill_unit":  false
+                                  },
+                       "once":  false,
+                       "hotkey":  "4",
+                       "ignoreHighlight":  false,
+                       "retryUntilPlaced":  false
+                   },
+                   {
+                       "type":  "auto_upgrade_unit",
+                       "params":  {
+                                      "index":  12,
+                                      "priority":  2
+                                  },
+                       "once":  false
+                   }
+               ]
+}

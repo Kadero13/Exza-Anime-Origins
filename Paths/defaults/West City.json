@@ -1,0 +1,11 @@
+{
+  "name": "West City",
+  "events": [
+    { "t": 0.000, "key": "s", "state": "down" },
+    { "t": 0.780, "key": "s", "state": "up" },
+    { "t": 0.780, "key": "a", "state": "down" },
+    { "t": 1.330, "key": "a", "state": "up" },
+    { "t": 1.330, "key": "s", "state": "down" },
+    { "t": 1.530, "key": "s", "state": "up" }
+  ]
+}
