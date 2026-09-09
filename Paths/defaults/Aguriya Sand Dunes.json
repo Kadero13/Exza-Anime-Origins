@@ -1,0 +1,13 @@
+{
+  "name": "Aguriya Sand Dunes",
+  "events": [
+    { "t": 0.000, "key": "d", "state": "down" },
+    { "t": 0.150, "key": "d", "state": "up" },
+    { "t": 0.150, "key": "s", "state": "down" },
+    { "t": 1.850, "key": "s", "state": "up" },
+    { "t": 1.850, "key": "a", "state": "down" },
+    { "t": 2.050, "key": "a", "state": "up" },
+    { "t": 2.050, "key": "s", "state": "down" },
+    { "t": 3.400, "key": "s", "state": "up" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Library of the Dead Afterdark",
+  "events": [
+    { "t": 0.000, "key": "a", "state": "down" },
+    { "t": 0.250, "key": "a", "state": "up" },
+    { "t": 0.250, "key": "w", "state": "down" },
+    { "t": 0.650, "key": "w", "state": "up" },
+    { "t": 0.650, "key": "a", "state": "down" },
+    { "t": 1.500, "key": "a", "state": "up" },
+    { "t": 1.500, "key": "w", "state": "down" },
+    { "t": 1.900, "key": "w", "state": "up" },
+    { "t": 1.900, "key": "a", "state": "down" },
+    { "t": 2.100, "key": "a", "state": "up" },
+    { "t": 2.100, "key": "w", "state": "down" },
+    { "t": 2.700, "key": "w", "state": "up" }
+  ]
+}
