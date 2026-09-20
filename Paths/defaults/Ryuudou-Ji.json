@@ -1,0 +1,9 @@
+{
+"name": "Ryuudou-Ji",
+"events": [
+{ "t": 0.000, "key": "s", "state": "down" },
+{ "t": 1.000, "key": "s", "state": "up" },
+{ "t": 1.000, "key": "d", "state": "down" },
+{ "t": 2.000, "key": "d", "state": "up" }
+]
+}

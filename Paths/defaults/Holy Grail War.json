@@ -1,0 +1,11 @@
+{
+  "name": "Holy Grail War",
+  "events": [
+    { "t": 0.000, "key": "d", "state": "down" },
+    { "t": 0.700, "key": "d", "state": "up" },
+    { "t": 0.700, "key": "w", "state": "down" },
+    { "t": 0.800, "key": "w", "state": "up" },
+    { "t": 0.800, "key": "d", "state": "down" },
+    { "t": 3.600, "key": "d", "state": "up" }
+  ]
+}
